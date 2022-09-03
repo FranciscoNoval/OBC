@@ -1,5 +1,8 @@
 package poo.clases;
 
+import poo.herencia.SmartPhone;
+import poo.herencia.SmartWatch;
+
 public class Main {
     public static void main(String[] args) {
 

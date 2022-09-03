@@ -1,8 +1,10 @@
-package poo.clases;
+package poo.herencia;
 
-public class SmartWatch extends SmartDevice{
-    protected String correaColor;
-    protected boolean gps;
+import poo.clases.SmartDevice;
+
+public class SmartWatch extends SmartDevice {
+    public String correaColor;
+    public boolean gps;
 
     public SmartWatch() {
     }

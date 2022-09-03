@@ -1,10 +1,12 @@
-package poo.clases;
+package poo.herencia;
+
+import poo.clases.SmartDevice;
 
 public class SmartPhone extends SmartDevice {
-    protected String tipoPantalla;
-    protected int ram;
-    protected int catidadCamaras;
-    protected boolean jackAuriculares;
+    public String tipoPantalla;
+    public int ram;
+    public int catidadCamaras;
+    public boolean jackAuriculares;
 
     public SmartPhone() {
     }

@@ -1,0 +1,14 @@
+
+Estos son los datos de la banda PIOJOS VERDES
+
+Sus integrantes
+==============================================
+Vocalista: Pepe
+Guitarrista: Pipo
+Bajista: Papo
+Baterista: Pablo
+
+Su discografía
+==============================================
+1=Disco{tituloDisco='Ayer', anio=2007, canciones=[Uno , Marcha, Piedad, Paco, Peco]}
+2=Disco{tituloDisco='Hoy', anio=2012, canciones=[El rey, Soy mejor, Papa frita, nada]}
